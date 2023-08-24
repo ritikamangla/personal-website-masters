@@ -21,20 +21,8 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: ritikamangla.rm@gmail.com
-phone: +91 9769296966
-address:
-  street: ""
-  city: Thane
-  region:  Maharashtra, India
-  postcode: '400601'
-  country: India
-  country_code: IN
 # appointment_url: 'https://calendly.com'
 contact_links:
-- icon: github
-  icon_pack: fab
-  name: Github
-  link: https://github.com/ritikamangla
 - icon: linkedin
   icon_pack: fab
   name: LinkedIn

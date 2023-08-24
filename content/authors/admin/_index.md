@@ -6,12 +6,12 @@ title: Ritika Mangla
 superuser: true
 
 # Role/position/tagline
-role: B.Tech in Information Technology
+role: Masters in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Veermata Jijabai Technological Institute, Mumbai
-  url: https://vjti.net/
+- name: The University of Texas at Austin
+  url: https://www.cs.utexas.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -19,15 +19,17 @@ bio: ""
 # Interests to show in About widget
 interests:
 - Natural Language Processing
-- Dialogue processing systems
-- Computer Vision
+- Computational Linguistics
 
 # Education to show in About widget
 education:
   courses:
+  - course: Master's in Computer Science
+    institution: The University of Texas at Austin
+    year: May 2024 (expected)
   - course: B.Tech in Information Technology
-    institution: Veermata Jijabai Technological Institute, Mumbai
-    year: 2022(expected)
+    institution: Veermata Jijabai Technological Institute
+    year: 2022
 
 
 # Social/Academic Networking
@@ -62,9 +64,9 @@ email: "ritikamangla.rm@gmail.com"
 highlight_name: false
 ---
 
-I am a final year undergraduate student pursuing my Bachelors of Technology in Information Technology from Veermata Jijabai Technological Institute, India. Ever since my first year in college, I have been keenly interested in the field of Machine learning. Our increased ability at cross-language interaction by building efficient lexical semantic analyzers and multi-variety models is what draws me to this field immensely.  To pursue my research interests, I tried my hands on interesting ML problem statements in the Centre of Excellence, the research incubator of VJTI, accoladed as the Best Incubator of India as of 2020. I wish to further explore opportunities in this domain that would efficiently change the way people communicate. 
+I am a Master's in Computer Science student at the University of Texas at Austin. I am currently advised by Dr. Jessy Li (co-advisor Dr. Greg Durrett). My research is focused on understanding discourse relationships using the linguistic framework of QuD (Question under Discussion). I am working on developing an evaluation framework for QuD parsers and exploring QuD ranking.
 
-In addition to this, I have a keen interest in music. I am a music aficionado at heart and the days I seem to hit the wrong note, my guitar helps me harmonize. Being well versed with 4 musical instruments, my days aren't complete without an element of music. I also greatly enjoy listening to podcasts centred around Artificial Intelligence and experts' opinions on such subjects.
+In addition to this, I have a keen interest in music. I am a music aficionado at heart and the days I seem to hit the wrong note, my guitar helps me harmonize. My days aren't complete without an element of music. 
 
 
 <p>You can find my <b>Résumé</b> <a href="./uploads/RitikaMangla.pdf" target="_blank">here</a>.

@@ -53,7 +53,7 @@ url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://twitter-b0t-detector.herokuapp.com/'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -116,13 +116,3 @@ Twitter is an important platform for many activities such as communication, prom
 
 <!-- {{< figure src="https://i.ibb.co/xqZNLFz/aaroma.png" title="How Aaroma works" >}} -->
 
-
-<!-- {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->

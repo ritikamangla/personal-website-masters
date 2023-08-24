@@ -17,7 +17,7 @@ authors:
 # - "Equal contribution"
 
 date: "2021-06-05T00:00:00Z"
-doi: ""
+doi: "https://www.tojqi.net/index.php/journal/article/view/1193/538"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-06-01T00:00:00Z"
@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: "https://www.tojqi.net/index.php/journal/article/view/1193/538"
+url_pdf: ""
 url_code: ""
 url_dataset: ""
 url_poster: ""

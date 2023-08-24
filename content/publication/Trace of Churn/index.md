@@ -17,7 +17,7 @@ authors:
 # - "Equal contribution"
 
 date: "2021-08-01T00:00:00Z"
-doi: ""
+doi: "https://ieeexplore.ieee.org/document/9544691"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-08-01T00:00:00Z"
